@@ -1,4 +1,4 @@
-<img src="https://4test.io/wp-content/uploads/2017/06/cropped-4test_feher.png" width="50px" height=auto /> <img src="http://logo.openkeyword.de/RasterFormat/150x78/OKW_Color_MSOffice_noBackground.png" width="50px" height=auto />
+<img src="https://4test.io/wp-content/uploads/2017/06/cropped-4test_feher.png" width="50px" height=auto background-color=black> <img src="http://logo.openkeyword.de/RasterFormat/150x78/OKW_Color_MSOffice_noBackground.png" width="150px" height=auto />
 
 # OKW4TEST
 
